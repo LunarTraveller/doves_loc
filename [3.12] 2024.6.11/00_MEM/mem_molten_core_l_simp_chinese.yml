@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ mem_molten_core_category:0 "火海"
+ mem_molten_core_category_desc:0 "和大多数熔融星球一样，§Y[Root.GetName]§!覆盖着熔岩河流与熔岩海洋。然而，这颗行星显然有些不寻常之处，而这即使从轨道上看都能看到。它和普通陆地星球一样，表面上有70%左右的部分覆盖着液体，尽管所有预测都表明熔岩很久之前就该凝固了，因为这颗[Root.GetPlanetMoon]环绕的恒星不足以使其表面保持这种状态。"
+ mem_molten_core.1.name:0 "暴露的核心"
+ mem_molten_core.1.desc:0 "尽管熔融星球通常都会有让岩浆从液态外核到达地表的喷口，但§Y[From.GetName]§!似乎更胜一筹。星球表面近40%都暴露着外核，造成了这片浩瀚的岩浆海。探测器可以轻易发射至行星核心，从而获取在其他星球上要经过艰难开采后才能得到的行星地质学启发。这使得§Y[From.GetName]§!是研究工作的完美对象。"
+ mem_molten_core.1.a:0 "好消息。"
+ mem_molten_core.99.name:0 "凝固的岩浆海"
+ mem_molten_core.99.desc:0 "§Y[This.GetLeaderName]§!报告称§Y[From.From.GetName]§!岩浆海只是侥幸。其表面已经开始冷却，预计几年内[From.From.GetPlanetMoon]表面的岩浆与陆地比例将类似典型的熔融星球。"
+ mem_molten_core.99.a:0 "很好。"

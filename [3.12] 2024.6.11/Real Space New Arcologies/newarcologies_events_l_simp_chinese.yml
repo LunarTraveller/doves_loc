@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ newarcologies_decision_event.1.name:0 "§H生产厂§!：[Root.GetName]已被覆盖"
+ newarcologies_decision_event.1.desc:0 "不断扩张的工厂一层层地覆盖了这颗行星的地壳。\n\n就在这项宏伟工程开始的几年后，我们已经很难想起[Root.GetName]的表面曾是多么翠绿。苍翠中点缀着植被？很难通过？现在这里到处都是钢铁，四方的几英里之内都是。\n\n一个曾经被偶然和盲目的自然法则塑造的地方现在变成了一个帝国的工业机器。"
+ newarcologies_decision_event.1.a:0 "难以置信。"
+ newarcologies_decision_event.2.name:0 "§H都市农业城§!：[Root.GetName]已被覆盖"
+ newarcologies_decision_event.2.desc:0 "不断扩张的城市和农业区域一层层地覆盖了这颗行星的地壳。\n\n就在这项充满野心的工程开始的几年后，我们已经很难想起[Root.GetName]的表面曾经是什么样子。苍翠中点缀着植被？很难通过？现在这里到处都是无边无际的农业用地，自动收割机在其中进行着未来的收获，它们随后会被运动巨大的城市中进行加工。\n一个曾经被偶然和盲目的自然法则塑造的地方现在变成了整个帝国的粮食核心。"
+ newarcologies_decision_event.2.a:0 "难以置信。"
+ newarcologies_decision_event.3.name:0 "§H军工复合城塞§!：[Root.GetName]已被覆盖"
+ newarcologies_decision_event.3.desc:0 "不断扩张的城市一层层地覆盖了这颗行星的地壳，他们被一个强大的金属和能量护盾保护着。\n\n就在这项充满野心的工程开始的几年后，我们已经很难想起[Root.GetName]的表面曾经是什么样子。苍翠中点缀着植被？很难通过？现在这里到处都是钢铁，四方的几英里之内都是。\n\n一个曾经被偶然和盲目的自然法则塑造的地方现在变成了整个帝国的要塞。"
+ newarcologies_decision_event.3.a:0 "真惊人。"

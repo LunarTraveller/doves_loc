@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ mod_shipclass_military_hull_mult: "军事船只船体值"
+ mod_shipclass_military_special_hull_mult: "特种船只船体值"
+ mod_shipclass_starbase_hull_mult: "恒星基地船体值"
